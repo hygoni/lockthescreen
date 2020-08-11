@@ -1,0 +1,8 @@
+echo "what is zshrc?!"
+
+cat ~/.lock
+
+alias ls="echo lock the screen"
+alias vi="echo lock the screen"
+alias vim="echo lock the screen"
+alias cd="echo lock the screen"
